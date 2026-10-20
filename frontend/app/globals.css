@@ -22,3 +22,7 @@
 body {
   background-color: #f9f7f3;
 }
+
+.rsm-svg {
+  height: 100% !important;
+}

@@ -16,11 +16,11 @@ export default function Home() {
           </div>
         </div>
       </div>
-      <div className="row-span-12 col-span-5 grid grid-cols-3 gap-3 p-4 h-full">
-        <div className="col-span-2 border border-gray-300 rounded-xl">
+      <div className="row-span-12 col-span-5 grid grid-cols-3 grid-rows-1 gap-3 p-4">
+        <div className="row-span-1 col-span-2 grid grid-cols-1 grid-rows-1 border border-gray-300 rounded-xl">
           <DengueMap></DengueMap>
         </div>
-        <div className="col-span-1 grid grid-rows-9 p-4 gap-3 border border-gray-300 rounded-xl bg-[#FDFCFB]">
+        <div className="row-span-1 col-span-1 grid grid-rows-9 p-4 gap-3 border border-gray-300 rounded-xl bg-[#FDFCFB]">
           <div className="row-span-1 flex flex-col gap-1">
             <span className="text-black text-3xl font-semibold">Select a department</span>
             <span className="text-gray-500 text-2xl">Click a department on the map to view its forecast.</span>
