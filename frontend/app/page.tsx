@@ -1,10 +1,19 @@
+'use client';
+
+import { useState } from "react";
 import { DengueMap } from "./components/DengueMap";
 import { ForecastRange } from "./components/ForecastRange";
 import { ForecastWeekSelect } from "./components/ForecastWeekSelect";
 import { MapPinIcon } from "./components/icons/MapPinIcon";
 import { PredictedCasesCard } from "./components/PredictedCasesCard";
+import departmentNames from "./data/codeToName.json";
 
 export default function Home() {
+
+  const [selectedCode, setSelectedCode] = useState<string | null>(null);
+
+  let geoUrl = '/geo/department_polygons.topojson'
+
   return (
     <div className="grid grid-rows-13 grid-cols-5 h-full">
       <div className="row-span-1 col-span-5 flex items-center">
@@ -18,12 +27,25 @@ export default function Home() {
       </div>
       <div className="row-span-12 col-span-5 grid grid-cols-3 grid-rows-1 gap-3 p-4">
         <div className="row-span-1 col-span-2 grid grid-cols-1 grid-rows-1 border border-gray-300 rounded-xl">
-          <DengueMap></DengueMap>
+          <DengueMap
+            selectedCode={selectedCode}
+            setSelectedCode={setSelectedCode}
+            geoUrl={geoUrl}>
+          </DengueMap>
         </div>
         <div className="row-span-1 col-span-1 grid grid-rows-9 p-4 gap-3 border border-gray-300 rounded-xl bg-[#FDFCFB]">
           <div className="row-span-1 flex flex-col gap-1">
-            <span className="text-black text-3xl font-semibold">Select a department</span>
-            <span className="text-gray-500 text-2xl">Click a department on the map to view its forecast.</span>
+            {selectedCode ?
+              <>
+                <span className="text-black text-3xl font-semibold">{departmentNames[selectedCode as keyof typeof departmentNames]}</span>
+                <span className="text-gray-500 text-2xl">DANE code: {selectedCode}</span>
+              </>
+              :
+              <>
+                <span className="text-black text-3xl font-semibold">Select a department</span>
+                <span className="text-gray-500 text-2xl">Click a department on the map to view its forecast.</span>
+              </>
+            }
           </div>
           <div className="row-span-5">
             <PredictedCasesCard></PredictedCasesCard>
