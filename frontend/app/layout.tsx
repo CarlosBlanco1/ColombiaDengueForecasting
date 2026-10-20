@@ -19,10 +19,13 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
       lang="en"
       className={`h-full antialiased`}
     >
-      <body className={`${sourceSerif4.className} min-h-full flex flex-col`}>
-        <Header></Header>
-        <hr className="border border-gray-200"></hr>
-        {children}
+      <body className={`${sourceSerif4.className} h-full grid grid-rows-13`}>
+        <div className="row-span-1">
+          <Header></Header>
+        </div>
+        <div className="row-span-12">
+          {children}
+        </div>
       </body>
     </html>
   );

@@ -44,5 +44,6 @@ export function Header() {
                 </div>
             </div>
         </div>
+        <hr className="border border-gray-200"></hr>
     </>
 }
