@@ -1,3 +1,6 @@
+'use client';
+
+import { CaseTrendChart } from "./CaseTrendChart";
 import { InfoIcon } from "./icons/InfoIcon";
 
 export function PredictedCasesCard() {
@@ -9,8 +12,12 @@ export function PredictedCasesCard() {
                     <InfoIcon width={36} height={36}></InfoIcon>
                 </div>
             </div>
-            <div className="row-span-5">
-                GRAPH GOES HERE
+            <div className="row-span-5 grid grid-rows-1">
+                <CaseTrendChart data={[
+                    { week: 38, num_cases: 112 },
+                    { week: 39, num_cases: 168 },
+                    { week: 40, num_cases: 143 },
+                ]}></CaseTrendChart>
             </div>
             <div className="row-span-4 rounded-xl text-title-gray text-xl bg-card-gray flex items-center justify-center">
                 <span>Select a department to view the forecast time series.</span>
