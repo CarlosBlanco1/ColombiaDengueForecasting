@@ -1,9 +1,9 @@
 import type { Metadata } from "next";
-import { Source_Serif_4 } from "next/font/google";
+import { Newsreader } from "next/font/google";
 import "./globals.css";
 import { Header } from "./components/Header";
 
-const sourceSerif4 = Source_Serif_4({
+const newsReader = Newsreader({
   subsets: ['latin'],
   display: 'swap'
 });
@@ -19,7 +19,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
       lang="en"
       className={`h-full antialiased`}
     >
-      <body className={`${sourceSerif4.className} h-full grid grid-rows-13`}>
+      <body className={`${newsReader.className} tracking-tighter h-full grid grid-rows-13`}>
         <div className="row-span-1">
           <Header></Header>
         </div>

@@ -34,11 +34,11 @@ export function Header() {
                 </div>
             </div>
             <div className="flex items-center justify-end pr-2">
-                <div className="grid grid-cols-5 px-4 py-2 rounded-2xl bg-green-200">
+                <div className="grid grid-cols-5 py-2 px-3 rounded-3xl bg-green-200 gap-2">
                     <span className="col-span-1">
                         <CalendarIcon width={24} height={24}></CalendarIcon>
                     </span>
-                    <span className="col-span-4">
+                    <span className="col-span-4 text-center text-lg font-semibold">
                         Weekly outlook
                     </span>
                 </div>
