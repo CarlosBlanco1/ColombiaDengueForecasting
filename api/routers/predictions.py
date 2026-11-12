@@ -1,5 +1,5 @@
 from services.prediction_service import predict_dengue_cases_for_department
-from services.week_service import compute_date_range
+from services.week_service import compute_date_range, fetch_2m_temp_precip_date_range
 from fastapi import APIRouter, HTTPException
 import pandas as pd
 
@@ -47,8 +47,8 @@ async def predict_department_cases(department_id: str):
     
     start_date, end_date = compute_date_range(pd.Timestamp.now())
 
-    print("START: ", start_date, "END: ", end_date)
-    
+    fetch_2m_temp_precip_date_range(start_date, end_date)
+
     num_cases = predict_dengue_cases_for_department(department_id)
 
     return num_cases

@@ -18,11 +18,13 @@ def fetch_2m_temp_precip_date_range(start: pd.Timestamp, end: pd.Timestamp):
 
     months_formatted = list(map(lambda x : str(x).zfill(2), months))
 
+    print("MONTHS :", months_formatted)
+
     dataset = "reanalysis-era5-single-levels"
     request = {
         "product_type": ["reanalysis"],
         "variable": ["2m_temperature", "total_precipitation"],
-        "year": list(set(start.year, end.year)),
+        "year": list(set([start.year, end.year])),
         "month": months_formatted,
         "day": [
             "01",
