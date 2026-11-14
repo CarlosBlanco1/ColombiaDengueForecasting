@@ -1,0 +1,1490 @@
+[
+  {
+    "epi_year": 2026,
+    "epi_week": 37,
+    "department": "05",
+    "case_count": 480
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 37,
+    "department": "08",
+    "case_count": 833
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 37,
+    "department": "13",
+    "case_count": 1305
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 37,
+    "department": "15",
+    "case_count": 30
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 37,
+    "department": "17",
+    "case_count": 12
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 37,
+    "department": "18",
+    "case_count": 16
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 37,
+    "department": "19",
+    "case_count": 35
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 37,
+    "department": "20",
+    "case_count": 373
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 37,
+    "department": "23",
+    "case_count": 298
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 37,
+    "department": "25",
+    "case_count": 280
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 37,
+    "department": "27",
+    "case_count": 153
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 37,
+    "department": "41",
+    "case_count": 147
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 37,
+    "department": "44",
+    "case_count": 50
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 37,
+    "department": "47",
+    "case_count": 599
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 37,
+    "department": "50",
+    "case_count": 1285
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 37,
+    "department": "52",
+    "case_count": 61
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 37,
+    "department": "54",
+    "case_count": 778
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 37,
+    "department": "63",
+    "case_count": 71
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 37,
+    "department": "66",
+    "case_count": 24
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 37,
+    "department": "68",
+    "case_count": 868
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 37,
+    "department": "70",
+    "case_count": 417
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 37,
+    "department": "73",
+    "case_count": 453
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 37,
+    "department": "76",
+    "case_count": 570
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 37,
+    "department": "81",
+    "case_count": 366
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 37,
+    "department": "85",
+    "case_count": 385
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 37,
+    "department": "86",
+    "case_count": 67
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 37,
+    "department": "91",
+    "case_count": 119
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 37,
+    "department": "94",
+    "case_count": 4
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 37,
+    "department": "95",
+    "case_count": 133
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 37,
+    "department": "97",
+    "case_count": 18
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 37,
+    "department": "99",
+    "case_count": 21
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 38,
+    "department": "05",
+    "case_count": 488
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 38,
+    "department": "08",
+    "case_count": 850
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 38,
+    "department": "13",
+    "case_count": 1329
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 38,
+    "department": "15",
+    "case_count": 34
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 38,
+    "department": "17",
+    "case_count": 15
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 38,
+    "department": "18",
+    "case_count": 19
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 38,
+    "department": "19",
+    "case_count": 38
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 38,
+    "department": "20",
+    "case_count": 361
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 38,
+    "department": "23",
+    "case_count": 277
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 38,
+    "department": "25",
+    "case_count": 284
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 38,
+    "department": "27",
+    "case_count": 184
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 38,
+    "department": "41",
+    "case_count": 133
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 38,
+    "department": "44",
+    "case_count": 47
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 38,
+    "department": "47",
+    "case_count": 587
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 38,
+    "department": "50",
+    "case_count": 1231
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 38,
+    "department": "52",
+    "case_count": 57
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 38,
+    "department": "54",
+    "case_count": 780
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 38,
+    "department": "63",
+    "case_count": 71
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 38,
+    "department": "66",
+    "case_count": 24
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 38,
+    "department": "68",
+    "case_count": 939
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 38,
+    "department": "70",
+    "case_count": 416
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 38,
+    "department": "73",
+    "case_count": 501
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 38,
+    "department": "76",
+    "case_count": 632
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 38,
+    "department": "81",
+    "case_count": 334
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 38,
+    "department": "85",
+    "case_count": 329
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 38,
+    "department": "86",
+    "case_count": 74
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 38,
+    "department": "91",
+    "case_count": 114
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 38,
+    "department": "94",
+    "case_count": 4
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 38,
+    "department": "95",
+    "case_count": 102
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 38,
+    "department": "97",
+    "case_count": 17
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 38,
+    "department": "99",
+    "case_count": 23
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 39,
+    "department": "05",
+    "case_count": 488
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 39,
+    "department": "08",
+    "case_count": 850
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 39,
+    "department": "13",
+    "case_count": 1329
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 39,
+    "department": "15",
+    "case_count": 34
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 39,
+    "department": "17",
+    "case_count": 15
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 39,
+    "department": "18",
+    "case_count": 19
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 39,
+    "department": "19",
+    "case_count": 38
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 39,
+    "department": "20",
+    "case_count": 361
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 39,
+    "department": "23",
+    "case_count": 277
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 39,
+    "department": "25",
+    "case_count": 284
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 39,
+    "department": "27",
+    "case_count": 184
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 39,
+    "department": "41",
+    "case_count": 133
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 39,
+    "department": "44",
+    "case_count": 47
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 39,
+    "department": "47",
+    "case_count": 587
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 39,
+    "department": "50",
+    "case_count": 1231
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 39,
+    "department": "52",
+    "case_count": 57
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 39,
+    "department": "54",
+    "case_count": 780
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 39,
+    "department": "63",
+    "case_count": 71
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 39,
+    "department": "66",
+    "case_count": 24
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 39,
+    "department": "68",
+    "case_count": 939
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 39,
+    "department": "70",
+    "case_count": 416
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 39,
+    "department": "73",
+    "case_count": 501
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 39,
+    "department": "76",
+    "case_count": 632
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 39,
+    "department": "81",
+    "case_count": 334
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 39,
+    "department": "85",
+    "case_count": 329
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 39,
+    "department": "86",
+    "case_count": 74
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 39,
+    "department": "91",
+    "case_count": 114
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 39,
+    "department": "94",
+    "case_count": 4
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 39,
+    "department": "95",
+    "case_count": 102
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 39,
+    "department": "97",
+    "case_count": 17
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 39,
+    "department": "99",
+    "case_count": 23
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 40,
+    "department": "05",
+    "case_count": 506
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 40,
+    "department": "08",
+    "case_count": 872
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 40,
+    "department": "13",
+    "case_count": 1641
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 40,
+    "department": "15",
+    "case_count": 43
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 40,
+    "department": "17",
+    "case_count": 19
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 40,
+    "department": "18",
+    "case_count": 18
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 40,
+    "department": "19",
+    "case_count": 48
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 40,
+    "department": "20",
+    "case_count": 316
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 40,
+    "department": "23",
+    "case_count": 280
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 40,
+    "department": "25",
+    "case_count": 389
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 40,
+    "department": "27",
+    "case_count": 185
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 40,
+    "department": "41",
+    "case_count": 129
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 40,
+    "department": "44",
+    "case_count": 63
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 40,
+    "department": "47",
+    "case_count": 616
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 40,
+    "department": "50",
+    "case_count": 1047
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 40,
+    "department": "52",
+    "case_count": 71
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 40,
+    "department": "54",
+    "case_count": 734
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 40,
+    "department": "63",
+    "case_count": 87
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 40,
+    "department": "66",
+    "case_count": 41
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 40,
+    "department": "68",
+    "case_count": 1059
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 40,
+    "department": "70",
+    "case_count": 508
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 40,
+    "department": "73",
+    "case_count": 587
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 40,
+    "department": "76",
+    "case_count": 647
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 40,
+    "department": "81",
+    "case_count": 298
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 40,
+    "department": "85",
+    "case_count": 245
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 40,
+    "department": "86",
+    "case_count": 77
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 40,
+    "department": "91",
+    "case_count": 111
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 40,
+    "department": "94",
+    "case_count": 1
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 40,
+    "department": "95",
+    "case_count": 126
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 40,
+    "department": "97",
+    "case_count": 19
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 40,
+    "department": "99",
+    "case_count": 24
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 41,
+    "department": "05",
+    "case_count": 509
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 41,
+    "department": "08",
+    "case_count": 831
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 41,
+    "department": "13",
+    "case_count": 1735
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 41,
+    "department": "15",
+    "case_count": 46
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 41,
+    "department": "17",
+    "case_count": 23
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 41,
+    "department": "18",
+    "case_count": 21
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 41,
+    "department": "19",
+    "case_count": 45
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 41,
+    "department": "20",
+    "case_count": 338
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 41,
+    "department": "23",
+    "case_count": 285
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 41,
+    "department": "25",
+    "case_count": 447
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 41,
+    "department": "27",
+    "case_count": 170
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 41,
+    "department": "41",
+    "case_count": 113
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 41,
+    "department": "44",
+    "case_count": 63
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 41,
+    "department": "47",
+    "case_count": 637
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 41,
+    "department": "50",
+    "case_count": 975
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 41,
+    "department": "52",
+    "case_count": 65
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 41,
+    "department": "54",
+    "case_count": 704
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 41,
+    "department": "63",
+    "case_count": 92
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 41,
+    "department": "66",
+    "case_count": 56
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 41,
+    "department": "68",
+    "case_count": 1139
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 41,
+    "department": "70",
+    "case_count": 492
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 41,
+    "department": "73",
+    "case_count": 600
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 41,
+    "department": "76",
+    "case_count": 649
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 41,
+    "department": "81",
+    "case_count": 284
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 41,
+    "department": "85",
+    "case_count": 249
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 41,
+    "department": "86",
+    "case_count": 80
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 41,
+    "department": "91",
+    "case_count": 129
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 41,
+    "department": "94",
+    "case_count": 1
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 41,
+    "department": "95",
+    "case_count": 155
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 41,
+    "department": "97",
+    "case_count": 22
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 41,
+    "department": "99",
+    "case_count": 23
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 42,
+    "department": "05",
+    "case_count": 566
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 42,
+    "department": "08",
+    "case_count": 938
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 42,
+    "department": "13",
+    "case_count": 1991
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 42,
+    "department": "15",
+    "case_count": 31
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 42,
+    "department": "17",
+    "case_count": 25
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 42,
+    "department": "18",
+    "case_count": 20
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 42,
+    "department": "19",
+    "case_count": 48
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 42,
+    "department": "20",
+    "case_count": 381
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 42,
+    "department": "23",
+    "case_count": 287
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 42,
+    "department": "25",
+    "case_count": 480
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 42,
+    "department": "27",
+    "case_count": 150
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 42,
+    "department": "41",
+    "case_count": 134
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 42,
+    "department": "44",
+    "case_count": 60
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 42,
+    "department": "47",
+    "case_count": 738
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 42,
+    "department": "50",
+    "case_count": 980
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 42,
+    "department": "52",
+    "case_count": 75
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 42,
+    "department": "54",
+    "case_count": 709
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 42,
+    "department": "63",
+    "case_count": 101
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 42,
+    "department": "66",
+    "case_count": 66
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 42,
+    "department": "68",
+    "case_count": 1190
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 42,
+    "department": "70",
+    "case_count": 575
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 42,
+    "department": "73",
+    "case_count": 662
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 42,
+    "department": "76",
+    "case_count": 689
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 42,
+    "department": "81",
+    "case_count": 301
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 42,
+    "department": "85",
+    "case_count": 247
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 42,
+    "department": "86",
+    "case_count": 75
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 42,
+    "department": "91",
+    "case_count": 122
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 42,
+    "department": "94",
+    "case_count": 1
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 42,
+    "department": "95",
+    "case_count": 175
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 42,
+    "department": "97",
+    "case_count": 19
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 42,
+    "department": "99",
+    "case_count": 27
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 43,
+    "department": "05",
+    "case_count": 625
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 43,
+    "department": "08",
+    "case_count": 1136
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 43,
+    "department": "13",
+    "case_count": 2275
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 43,
+    "department": "15",
+    "case_count": 36
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 43,
+    "department": "17",
+    "case_count": 32
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 43,
+    "department": "18",
+    "case_count": 27
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 43,
+    "department": "19",
+    "case_count": 51
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 43,
+    "department": "20",
+    "case_count": 475
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 43,
+    "department": "23",
+    "case_count": 310
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 43,
+    "department": "25",
+    "case_count": 517
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 43,
+    "department": "27",
+    "case_count": 149
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 43,
+    "department": "41",
+    "case_count": 146
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 43,
+    "department": "44",
+    "case_count": 62
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 43,
+    "department": "47",
+    "case_count": 841
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 43,
+    "department": "50",
+    "case_count": 942
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 43,
+    "department": "52",
+    "case_count": 82
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 43,
+    "department": "54",
+    "case_count": 772
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 43,
+    "department": "63",
+    "case_count": 103
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 43,
+    "department": "66",
+    "case_count": 64
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 43,
+    "department": "68",
+    "case_count": 1337
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 43,
+    "department": "70",
+    "case_count": 559
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 43,
+    "department": "73",
+    "case_count": 755
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 43,
+    "department": "76",
+    "case_count": 772
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 43,
+    "department": "81",
+    "case_count": 289
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 43,
+    "department": "85",
+    "case_count": 245
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 43,
+    "department": "86",
+    "case_count": 73
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 43,
+    "department": "91",
+    "case_count": 152
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 43,
+    "department": "94",
+    "case_count": 2
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 43,
+    "department": "95",
+    "case_count": 124
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 43,
+    "department": "97",
+    "case_count": 20
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 43,
+    "department": "99",
+    "case_count": 28
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 44,
+    "department": "05",
+    "case_count": 590
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 44,
+    "department": "08",
+    "case_count": 1313
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 44,
+    "department": "13",
+    "case_count": 2521
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 44,
+    "department": "15",
+    "case_count": 39
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 44,
+    "department": "17",
+    "case_count": 36
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 44,
+    "department": "18",
+    "case_count": 34
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 44,
+    "department": "19",
+    "case_count": 49
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 44,
+    "department": "20",
+    "case_count": 548
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 44,
+    "department": "23",
+    "case_count": 329
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 44,
+    "department": "25",
+    "case_count": 510
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 44,
+    "department": "27",
+    "case_count": 154
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 44,
+    "department": "41",
+    "case_count": 171
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 44,
+    "department": "44",
+    "case_count": 62
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 44,
+    "department": "47",
+    "case_count": 920
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 44,
+    "department": "50",
+    "case_count": 971
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 44,
+    "department": "52",
+    "case_count": 73
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 44,
+    "department": "54",
+    "case_count": 817
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 44,
+    "department": "63",
+    "case_count": 112
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 44,
+    "department": "66",
+    "case_count": 66
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 44,
+    "department": "68",
+    "case_count": 1413
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 44,
+    "department": "70",
+    "case_count": 553
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 44,
+    "department": "73",
+    "case_count": 767
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 44,
+    "department": "76",
+    "case_count": 941
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 44,
+    "department": "81",
+    "case_count": 281
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 44,
+    "department": "85",
+    "case_count": 245
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 44,
+    "department": "86",
+    "case_count": 82
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 44,
+    "department": "91",
+    "case_count": 162
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 44,
+    "department": "94",
+    "case_count": 2
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 44,
+    "department": "95",
+    "case_count": 111
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 44,
+    "department": "97",
+    "case_count": 14
+  },
+  {
+    "epi_year": 2026,
+    "epi_week": 44,
+    "department": "99",
+    "case_count": 23
+  }
+]

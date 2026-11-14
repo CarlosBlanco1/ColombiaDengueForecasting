@@ -11,14 +11,10 @@ def compute_date_range(date: pd.Timestamp):
 def fetch_2m_temp_precip_date_range(start: pd.Timestamp, end: pd.Timestamp):
 
     months = pd.date_range(
-        start=start.to_period('M').to_timestamp(),
-        end=end,
-        freq='MS'
+        start=start.to_period("M").to_timestamp(), end=end, freq="MS"
     ).month.to_list()
 
-    months_formatted = list(map(lambda x : str(x).zfill(2), months))
-
-    print("MONTHS :", months_formatted)
+    months_formatted = list(map(lambda x: str(x).zfill(2), months))
 
     dataset = "reanalysis-era5-single-levels"
     request = {
@@ -91,4 +87,6 @@ def fetch_2m_temp_precip_date_range(start: pd.Timestamp, end: pd.Timestamp):
     }
 
     client = cdsapi.Client()
-    client.retrieve(dataset, request).download()
+    client.retrieve(dataset, request).download(
+        "./data/climate_data_store/era5_2016-01.grib"
+    )

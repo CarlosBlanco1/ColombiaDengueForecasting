@@ -45,10 +45,6 @@ async def predict_department_cases(department_id: str):
     if department_id not in valid_department_codes:
         raise HTTPException(code=404, detail="no department found for given ID")
     
-    start_date, end_date = compute_date_range(pd.Timestamp.now())
-
-    fetch_2m_temp_precip_date_range(start_date, end_date)
-
     num_cases = predict_dengue_cases_for_department(department_id)
 
     return num_cases
